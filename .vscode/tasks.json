@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "dotnet",
+			"task": "watch My.POC.RateLimiting.API",
+			"file": "C:\\dev\\projects\\My\\My.POC.RateLimiting.API\\My.POC.RateLimiting.API.csproj",
+			"problemMatcher": [],
+			"label": "dotnet: watch My.POC.RateLimiting.API"
+		}
+	]
+}
